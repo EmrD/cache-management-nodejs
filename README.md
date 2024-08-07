@@ -14,7 +14,7 @@ Steps to set up and run the project:
 1. **Clone the repository:**
     ```sh
     git clone <REPO_URL>
-    cd cache-nodejs
+    cd <FOLDER_NAME>
     ```
 
 2. **Install the required dependencies:**
@@ -24,7 +24,7 @@ Steps to set up and run the project:
 
 3. **Start the server:**
     ```sh
-    node app.js
+    node index.js
     ```
 
 ## Usage
